@@ -457,7 +457,7 @@ function App() {
 
               Made by YashArts
 
-              123 Ayur Vigyan Nagar, New Delhi, India.
+              
 
             </p>
           </div>
