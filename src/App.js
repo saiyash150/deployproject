@@ -3,7 +3,7 @@ import './App.css';
 //web app namaste
 
 function App() {
-  return (
+  return (<>
 
     <nav className="navbar navbar-expand-lg navbar-light bg-white">
       <div className="container">
@@ -460,6 +460,7 @@ function App() {
               
 
             </p>
+
           </div>
         </div>
       </div>
