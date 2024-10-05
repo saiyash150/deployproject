@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
   return (
-    <>
+
     <nav className="navbar navbar-expand-lg navbar-light bg-white">
       <div className="container">
         <a className="navbar-brand" href="#">
@@ -454,7 +454,11 @@ function App() {
             />
             <h1 className="footer-section-mail-id">orderfood@foodmunch.com</h1>
             <p className="footer-section-address">
+
               Made by YashArts
+
+              123 Ayur Vigyan Nagar, New Delhi, India.
+
             </p>
           </div>
         </div>
