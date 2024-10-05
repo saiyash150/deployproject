@@ -1,6 +1,6 @@
 
 import './App.css';
-//web app
+//web app namaste
 
 function App() {
   return (
@@ -454,7 +454,7 @@ function App() {
             />
             <h1 className="footer-section-mail-id">orderfood@foodmunch.com</h1>
             <p className="footer-section-address">
-              Made by Yash
+              Made by YashArts
             </p>
           </div>
         </div>
